@@ -4,7 +4,7 @@ The basic idea behind this project is, social reading. people can explore books 
 
 ## Getting Started
 
-The project is developed on PHP and the database used is MySql. The database file is provided and should be imported to the local machine,
+The project is developed on PHP and the database used is MySql. The database file is provided **libro.sql** and should be imported to the local machine,
 the credientials for connection to the database should be provided in the "config.php" file, 
 
 ```
